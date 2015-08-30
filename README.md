@@ -3,6 +3,7 @@ This is an introductory repository that contains useful learning material
 
 First skim this introduction to **git** that explains why you should use it:
 
+* [About version control](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 * [Learning git](http://learnxinyminutes.com/docs/git/)
 
 Next complete the following simulated tutorial to get a feel for how **git** works in practice:
@@ -19,12 +20,20 @@ Once you have your own **GitHub** account, fork this CS510 repository there, acc
 
 * [Forking a repository](https://help.github.com/articles/fork-a-repo/)
 
-This readme is written in the **Markdown** markup language. You can learn **Markdown** quickly [here](learnmarkdown.md).
-
-Note: The website [LearnXinYMinutes](http://learnxinyminutes.com) is a generally valuable resource for quickly referencing and mastering syntax for new programming languages. A few of its more relevant sections have been stored in this **GitHub** repository for quick reference:
+This readme is written in the **Markdown** markup language. You can learn **Markdown** quickly below:
 
 * [MarkDown](learnmarkdown.md)
-* [JSON](learnjson.json)
-* [YAML](learnyaml.yaml)
-* [Bash](learnbash.sh)
+
+**Markdown** is perfectly adequate for simple documentation tasks. For larger, more formal papers, **LaTeX** is the gold standard:
+
 * [LaTeX](http://ctan.mirrorcatalogs.com/info/latex4wp/latex4wp.pdf)
+
+As seen briefly above, the website [LearnXinYMinutes](http://learnxinyminutes.com) is a generally valuable resource for quickly referencing and mastering syntax for new programming languages. A few more of its more relevant sections have been stored in this **GitHub** repository for quick reference:
+
+* [JSON](learnjson.json) (Structured data file)
+* [YAML](learnyaml.yaml) (Cleaner structured data file)
+* [Bash](learnbash.sh)   (Primary shell used in UNIX/Linux systems)
+
+Since learning the **Bash** shell will be essential going forward, the following "cheat sheet" will be helpful:
+
+* [Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
