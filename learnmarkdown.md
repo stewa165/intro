@@ -1,5 +1,5 @@
 <!-- Borrowed from http://learnxinyminutes.com/docs/markdown/ -->
-# Note: click "Raw" to compare the rendered document to the raw code.
+# Note: (on GitHub) click "Raw" to compare the rendered document to the raw code.
 
 <!-- Markdown is a superset of HTML, so any HTML file is valid Markdown, that
 means we can use HTML elements in Markdown, such as the comment element, and
