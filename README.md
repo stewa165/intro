@@ -37,3 +37,7 @@ As seen briefly above, the website [LearnXinYMinutes](http://learnxinyminutes.co
 Since learning the **Bash** shell will be essential going forward, the following "cheat sheet" will be helpful:
 
 * [Bash Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
+
+Once you link your Sage Cloud account, you will find the following worksheet helpful:
+
+* [Sage Beginner Tutorial](SageBeginnerTutorial.sagews)
