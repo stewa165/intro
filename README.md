@@ -4,6 +4,7 @@ This is an introductory repository that contains useful learning material
 First skim this introduction to **git** that explains why you should use it:
 
 * [About version control](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+* [Git guides](https://guides.github.com/)
 * [Learning git](http://learnxinyminutes.com/docs/git/)
 
 Next complete the following simulated tutorial to get a feel for how **git** works in practice:
