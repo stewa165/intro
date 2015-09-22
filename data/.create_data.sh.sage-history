@@ -1,0 +1,2 @@
+"~/github/intro/data$ touch {001..100}.dat"
+{"patch":[[[[-1,"~/github/intro/data$ touch {001..100}.dat"]],0,0,41,0]],"time":1442886316748}
