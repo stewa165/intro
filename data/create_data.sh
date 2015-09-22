@@ -1,1 +1,0 @@
-~/github/intro/data$ touch {001..100}.dat
